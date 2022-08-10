@@ -1,12 +1,12 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "iNotebook  - Your Notebook on the cloud",
+  "description": "iNotebook",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "",
+  "author": "Avijit Sen",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
